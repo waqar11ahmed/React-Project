@@ -38,7 +38,7 @@ export function Header() {
   return (
     <div className="marquee">
       <div className="marquee-text">
-        Welcome to Our Website!
+        Welcome to Our Websi;lk;lk;lkk;te!
       </div>
     </div>
   )
